@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=647d1cae77a556440b7bdd97950c193b)
- * Config saved to config.json and https://gist.github.com/647d1cae77a556440b7bdd97950c193b
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=48b28d2e1084b2c6c922063eddb32a8a)
+ * Config saved to config.json and https://gist.github.com/48b28d2e1084b2c6c922063eddb32a8a
  */
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
@@ -326,13 +326,13 @@ fieldset[disabled] .btn-danger.active {
 }
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
-  background-image: -webkit-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
-  background-image: -o-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#e8e8e8));
-  background-image: linear-gradient(to bottom, #f5f5f5 0%, #e8e8e8 100%);
+  background-image: -webkit-linear-gradient(top, #31b198 0%, #2b9d87 100%);
+  background-image: -o-linear-gradient(top, #31b198 0%, #2b9d87 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#31b198), to(#2b9d87));
+  background-image: linear-gradient(to bottom, #31b198 0%, #2b9d87 100%);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
-  background-color: #e8e8e8;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff31b198', endColorstr='#ff2b9d87', GradientType=0);
+  background-color: #2b9d87;
 }
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
